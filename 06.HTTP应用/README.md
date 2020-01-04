@@ -1,0 +1,5 @@
+GET:TPYBoard v702使用GET请求获取数据的例程源码
+
+POST:TPYBoard v702使用POST请求获取数据的例程源码
+
+httptest.php:是为了测试HTTP功能特意编写一个PHP程序，大家可直接放到自己的服务器做测试，也可以直接访问例程中的地址。
